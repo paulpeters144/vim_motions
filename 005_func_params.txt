@@ -1,0 +1,33 @@
+Try using:
+- cib - chang in brackets
+- cab - change around brackets 
+- vib - highlight in brackets
+- vab - highligh around brackets
+
+function filterAndFormatProducts(
+  products: Product[], // list of products
+  categoryFilter: string, // category to filter
+  sortDirection: "asc" | "desc" // sort order by price
+): string[] {
+  const filtered = products.filter((product) => {
+    return categoryFilter
+      ? product.category.toLowerCase() === categoryFilter.toLowerCase()
+      : true;
+  });
+
+  const sorted = filtered.sort((a, b) => {
+    if (sortDirection === "asc") {
+      return a.price - b.price;
+    }
+    return b.price - a.price;
+  });
+  const formatted = sorted.map((product) => {
+    return `${product.name} - $${product.price.toFixed(2)}`;
+  });
+
+  console.log(`Filtered ${products.length} products down to ${formatted.length}`);
+  console.log(`Category: ${categoryFilter || "All"}`);
+  console.log(`Sort direction: ${sortDirection}`);
+
+  return formatted;
+}

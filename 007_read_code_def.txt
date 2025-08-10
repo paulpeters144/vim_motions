@@ -1,0 +1,4 @@
+For this exercise, go to anywhere in the "admin-app" repo, and look at the definitions of functions and interfaces.
+
+- gd - for going to definition
+- Shift + k - for seeing the definition popup

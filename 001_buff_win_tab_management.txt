@@ -1,0 +1,8 @@
+- go to the app and open
+  - 3 different windows
+  - 10 different buffers
+
+- play around for a bit, opening and closing different files
+ - swap windows
+ - close a windows
+ - open a window
