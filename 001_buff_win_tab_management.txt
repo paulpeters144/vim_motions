@@ -6,3 +6,4 @@
  - swap windows
  - close a windows
  - open a window
+ - open buffers in Telescope with Shift + H
