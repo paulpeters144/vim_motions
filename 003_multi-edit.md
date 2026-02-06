@@ -1,3 +1,5 @@
+# Multi-Edit
+
 Courtesy of video - https://www.youtube.com/watch?v=p4D8-brdrZo
 
 with regex replace do the following:
@@ -11,6 +13,7 @@ with macros, do the following
  2. create a macro so change useState to React.useState
   a. apply macro all the way down
 
+```javascript
 const [counter, setCounter] = useState(0);
 const [count, setCount] = useState(0);
 const [clicks, setClicks] = useState(0);
@@ -31,3 +34,4 @@ const [state, setState] = useState(0);
 const [level, setLevel] = useState(0);
 const [stage, setStage] = useState(0);
 const [version, setVersion] = useState(0);
+```

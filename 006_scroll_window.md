@@ -1,4 +1,6 @@
-Practice scrolling up and down with <C-y & <C-e>
+# Scroll Window
+
+Practice scrolling up and down with `<C-y>` & `<C-e>`
 
 What I’ve Learnt After Publishing 200 Medium Articles
 
@@ -149,7 +151,7 @@ Use colourful images from Unsplash and Pexels.
 
 Put in the reps. “Trust is consistency over time.” — Jeff Weiner
 
-Just because your writing hasn’t got many claps or views, it doesn’t mean it’s sh*t.
+Just because your writing hasn’t got many claps or views, it doesn't mean it’s sh*t.
 
 Key Takeaways
 I’ve seen so many writers come and go.

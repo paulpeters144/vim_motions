@@ -1,9 +1,12 @@
-Try using:
-- cib - chang in brackets
-- cab - change around brackets 
-- vib - highlight in brackets
-- vab - highligh around brackets
+# Func Params
 
+Try using:
+- `cib` - chang in brackets
+- `cab` - change around brackets 
+- `vib` - highlight in brackets
+- `vab` - highligh around brackets
+
+```typescript
 function filterAndFormatProducts(
   products: Product[], // list of products
   categoryFilter: string, // category to filter
@@ -31,3 +34,4 @@ function filterAndFormatProducts(
 
   return formatted;
 }
+```

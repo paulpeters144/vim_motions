@@ -1,10 +1,12 @@
-- <i>: insert - puts you at the front of the cursor
-- <I>: Insert at the beginning of the line - puts you at the front of the line
-- <a>: append - puts you at the back of the cursor
-- <A>: Append at the end of the line - puts you at the end of the line
-- <o>: Open a new line below - inserts a new line below the cursor
-- <O>: Open a new line above - inserts a new line above the cursor
-- <gi>: go to last insert mode - takes you to the last place you were in "insert" mode
+# Insert Mode Tricks
+
+- `<i>`: insert - puts you at the front of the cursor
+- `<I>`: Insert at the beginning of the line - puts you at the front of the line
+- `<a>`: append - puts you at the back of the cursor
+- `<A>`: Append at the end of the line - puts you at the end of the line
+- `<o>`: Open a new line below - inserts a new line below the cursor
+- `<O>`: Open a new line above - inserts a new line above the cursor
+- `<gi>`: go to last insert mode - takes you to the last place you were in "insert" mode
 
 # My Awesome Project 🚀
 
@@ -45,3 +47,4 @@ List any prerequisites needed to run the project.
 
 ```sh
 npm install npm@latest -g
+```

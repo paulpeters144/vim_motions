@@ -1,6 +1,8 @@
+# Indentation
+
 To indent lines, while in "INSERT" mode, you can press
-- <C-t> to indent
-- <C-d> to decrease the indent
+- `<C-t>` to indent
+- `<C-d>` to decrease the indent
 
 
 ### README EXAMPLE

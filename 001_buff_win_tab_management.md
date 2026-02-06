@@ -1,3 +1,5 @@
+# Buff Win Tab Management
+
 - go to the app and open
   - 3 different windows
   - 10 different buffers
