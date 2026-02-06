@@ -1,10 +1,18 @@
 # Func Params
 
 Try using:
-- `cib` - chang in brackets
-- `cab` - change around brackets 
+- `cib` - change in brackets (works for `()`)
+- `cab` - change around brackets
+- `ci(` or `ci)` - change in parentheses
+- `ci{` or `ci}` - change in curly braces
+- `ci[` or `ci]` - change in square brackets
+- `ci"` or `ci'` - change in quotes
 - `vib` - highlight in brackets
-- `vab` - highligh around brackets
+- `vab` - highlight around brackets
+
+## Shortcuts (LSP)
+- `<leader>ca` : Code Action (useful for adding missing imports or fixing types in functions)
+- `<leader>cr` : Rename function or parameter
 
 ```typescript
 function filterAndFormatProducts(

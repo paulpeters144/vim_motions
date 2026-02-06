@@ -2,6 +2,15 @@
 
 Practice scrolling up and down with `<C-y>` & `<C-e>`
 
+## Shortcuts
+- `<C-e>` : Scroll window down one line
+- `<C-y>` : Scroll window up one line
+- `<C-d>` : Scroll down (half page) and center cursor
+- `<C-u>` : Scroll up (half page) and center cursor
+- `<C-f>` : Scroll down (full page) and center cursor
+- `<C-b>` : Scroll up (full page) and center cursor
+- `zz`    : Center the screen on the cursor
+
 What I’ve Learnt After Publishing 200 Medium Articles
 
 I published my first Medium article in September 2020.
