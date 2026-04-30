@@ -13,7 +13,7 @@ To indent lines, while in "INSERT" mode, you can press
 ### Normal/Visual Mode
 - `>`  : Indent (use with motion or in visual mode)
 - `<`  : Unindent (use with motion or in visual mode)
-- `==` : Auto-indent current line
+- `=` : Auto-indent current line
 - `gg=G` : Auto-indent entire file
 
 
