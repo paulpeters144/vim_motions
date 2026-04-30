@@ -10,10 +10,6 @@ Try using:
 - `vib` - highlight in brackets
 - `vab` - highlight around brackets
 
-## Shortcuts (LSP)
-- `<leader>ca` : Code Action (useful for adding missing imports or fixing types in functions)
-- `<leader>cr` : Rename function or parameter
-
 ```typescript
 function filterAndFormatProducts(
   products: Product[], // list of products
